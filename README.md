@@ -3,4 +3,11 @@ The following is a library-free application that obtains stock values from a sup
 
 > Languages used HTML5, CSS3, JavaScript
 
-The element with label “Get New Quote” should retrieve new data based on the value of the select field, and populate the appropriate fields with that data.
+### More Information
+This demo can be seen if you have live-server installed. Simply clone the project files locally and in your editor, right click the index.html file and choose to view in live-server. 
+
+```
+npm install -g live-server
+```
+
+For more information on live-server you can visit the link here https://www.npmjs.com/package/live-server.
