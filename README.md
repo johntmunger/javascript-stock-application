@@ -1,5 +1,5 @@
 ## Project Description
-The following is a libary free application that obtains stock values from a data object within the codebase. HTML, CSS and vanilla JavaScript is used on the frontend. Simply move through the select dropdown and click the "Get New Quote" button to fill UI with stock values related to the company name.
+The following app is a library-free application that obtains stock values from a supplied data object. HTML, CSS and vanilla JavaScript are used on the frontend. Simply move through the select dropdown and click the "Get New Quote" button to fill the UI with stock values related to the selected company name.
 
 > Languages used HTML5, CSS3, JavaScript
 
